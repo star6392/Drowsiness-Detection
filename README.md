@@ -2,7 +2,7 @@
 
 A simple pre-trained dlib algorithm to detect drowsiness through processing consecutive frames.
 
-###Dependencies:
+### Dependencies:
 1. Dlib with Python bindings
 2. OpenCV
 3. Scipy
